@@ -1,2 +1,2 @@
 # Coppelia
-conveyor version
+updates on coopelia and different versions
